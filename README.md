@@ -29,8 +29,8 @@ Le projet met l'accent sur une expérience utilisateur simple et contextuelle, e
 
 1.  **Clonez le dépôt :**
     ```bash
-    git clone <URL_DU_DEPOT>
-    cd bibliotheque_cli
+    git clone https://github.com/benoitjunior10/Bibliotheque_CLI.git
+    cd Bibliotheque_CLI
     ```
 
 2.  **Installez les dépendances avec Pipenv :**
