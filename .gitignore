@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# Pou database
+*.db
+*.sqlite
+*.sqlite3
+
+# Fichiers de logs
+*.log
